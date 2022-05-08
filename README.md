@@ -1,6 +1,6 @@
 # Merge-Sort-Projesi
 Patika.dev kapsamında Merge Sort Projesi ödevi
-[Patika URL](https://github.com/feyzayayc/Merge-Sort-Projesi)
+[Patika URL](https://github.com/feyzayayc/Binary-Search-Tree-Projesi)
 
 [16,21,11,8,12,22] -> Merge Sort
 ### 1.Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
